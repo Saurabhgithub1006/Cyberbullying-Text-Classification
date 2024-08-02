@@ -5,4 +5,5 @@
 *) It is twitter_parsed tweets dataset, where I have  classified whether the tweet is toxic or not.
 *) Performed step-by-step NLP approach to identify the toxicity of tweets .
 *) Classified the tweets in binary value .
+*) Applied ML models and DL models to get desired target results.
 *) The target variable is oh-label and the evaluation metric is F1-score.
